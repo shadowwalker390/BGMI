@@ -1,0 +1,6 @@
+{
+  "appId": "com.shadowwalker390.bgmitournament",
+  "appName": "BGMI Tournament",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
